@@ -1,16 +1,42 @@
-# raw NHANES data (~700 MB, public domain - re-download via script 01)
-data/raw/
+# Internal QA / planning scripts (do not push)
+scripts/_*.R
+scripts/_*.py
+scripts/_make_delivery_*.R
+scripts/_pre_zip_audit.R
+scripts/_ai_tell_scan.py
+scripts/_consistency_check.R
+scripts/_similarity_check.py
+scripts/_compute_*.R
+scripts/_render_*.R
+scripts/_rerun_*.R
+scripts/_verify_*.R
+scripts/_retrodesign_*.R
+scripts/_explore_*.R
+scripts/_bkmrhat_*.R
+scripts/_paper_novelty_check.R
+scripts/_audit_unused_vars.R
 
-# R / IDE
-.Rhistory
-.RData
-.Rproj.user/
-*.Rproj
+# Internal cohort overlap or numbered references
+output/tables/_*_005_*
+output/tables/_*_007_*
+output/tables/mr_NOTE_*
+
+# Internal docs / logs
+_review_log/
+_archive/
+*.log
+_alpha_fix_log.md
+_kcycle_weighted_results_*.md
+_QA_pipeline_说明.md
+_bkmrhat_diag_*.md
+模拟审稿.md
+
+# Raw data + zips + checkpoints
+data/raw/
+*.zip
+*.rds
+_bkmr_checkpoint_history*/
 
 # OS
-Thumbs.db
 .DS_Store
-
-# build outputs
-*.docx
-*.zip
+Thumbs.db
