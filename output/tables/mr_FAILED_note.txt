@@ -1,5 +1,0 @@
-MR Step 2 failed: ieugwasr::associations returned no matches.
-Tried: ebi-a-GCST90091033, ieu-b-7, finn-b-K11_NAFLD
-Timestamp: 2026-05-18 10:27:05.745228
-Likely cause: OpenGWAS server unreachable from this workstation or SNPs not present.
-Fallback: manually download Anstee 2020 GWAS summary stats or use hand-coded effect sizes for Liu 2024 Sci Rep reference values.

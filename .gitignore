@@ -40,3 +40,22 @@ _bkmr_checkpoint_history*/
 # OS
 .DS_Store
 Thumbs.db
+
+# Internal review/snapshot artifacts
+output/figures/_*/
+output/figures/_review_png/
+output/figures/_snapshot/
+output/figures/bkmr_*.png
+output/figures/cross_*.png
+output/figures/hfs_calibration.png
+output/figures/mi_convergence.png
+output/figures/rcs_se_*.png
+
+# Internal QA outputs
+output/tables/_*
+output/tables/mr_FAILED_*
+output/tables/mr_NOTE_*
+
+# Wide tables (re-id gray zone)
+data/processed/*.RData
+data/processed/*.rds
