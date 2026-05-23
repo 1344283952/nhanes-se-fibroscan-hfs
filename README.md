@@ -106,4 +106,4 @@ AI-assisted writing tools were used in two scope-limited ways:
 
 (ii) sentence-level language polishing of the Methods and Results sections only.
 
-The Background, Discussion, and Conclusions sections were authored without AI assistance. All study design choices, statistical model selection, scientific decisions, citation choices, numerical claims, and interpretations were independently made by the authors and verified against the underlying statistical outputs. Disclosure conforms to COPE 2023 guidance on authorship and AI tools (accessed 2026).
+The Background, Discussion, and Conclusions sections were authored without AI assistance. All study design choices, statistical model selection, scientific decisions, citation choices, numerical claims, and interpretations were independently made by the authors and verified against the underlying statistical outputs. Disclosure conforms to ICMJE Recommendations (Updated January 2026, Section V), consistent with COPE 2023 guidance on authorship and AI tools (accessed 2026).
