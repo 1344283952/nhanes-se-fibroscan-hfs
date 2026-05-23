@@ -70,7 +70,7 @@ Rscript scripts/run_all.R
 Or, to skip the data download/merge step, load the analytic sample directly:
 
 ```r
-load("data/processed/nhanes_main_006.RData")  # → 5,885 main cohort
+load("data/processed/nhanes_main.RData")  # → 5,885 main cohort
 load("data/processed/nhanes_design_main.RData") # → svydesign object
 # then run any scripts from 05_table1.R onward
 ```
