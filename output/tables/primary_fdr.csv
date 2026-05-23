@@ -1,0 +1,13 @@
+"test_id","family","exposure","outcome","p_raw","p_BH_primary","signif_BH_005"
+"RCS_nonlin_LBXBSE_cap","RCS_nonlinearity","LBXBSE","cap",1.27124977211679e-11,1.52549972654015e-10,1
+"GAM_tensor_cap","GAM_tensor","DR1TSELE_x_LBXBSE","cap",7.97362166850002e-05,0.000478417300110001,1
+"GAM_tensor_lsm","GAM_tensor","DR1TSELE_x_LBXBSE","lsm",0.000221679506463457,0.000886718025853828,1
+"RCS_nonlin_DR1TSELE_cap","RCS_nonlinearity","DR1TSELE","cap",0.000950660022926542,0.00285198006877963,1
+"ratio_se_cu_tT2","ratio_tertile","se_cu_t","steatosis_cap275",0.00174426207437523,0.003645615865394,1
+"ratio_se_cu_tT3 (high)","ratio_tertile","se_cu_t","steatosis_cap275",0.001822807932697,0.003645615865394,1
+"ratio_se_zn_tT3 (high)","ratio_tertile","se_zn_t","steatosis_cap275",0.00247811701943902,0.00424820060475261,1
+"RCS_nonlin_LBXBSE_lsm","RCS_nonlinearity","LBXBSE","lsm",0.00639826981252201,0.00959740471878301,1
+"ratio_se_zn_tT2","ratio_tertile","se_zn_t","steatosis_cap275",0.007393574894926,0.00985809985990133,1
+"RCS_nonlin_LBXBSE_hfs","RCS_nonlinearity","LBXBSE","hfs",0.240204919264892,0.28824590311787,0
+"RCS_nonlin_DR1TSELE_lsm","RCS_nonlinearity","DR1TSELE","lsm",0.358516745102291,0.391109176475226,0
+"RCS_nonlin_DR1TSELE_hfs","RCS_nonlinearity","DR1TSELE","hfs",0.54386589457574,0.54386589457574,0

@@ -1,0 +1,6 @@
+"Test","P_cycle_main","K_cycle_unweighted_OLD","K_cycle_weighted_NEW","Note"
+"1. Se→CAP non-linear P_nl","1.27e-11 (highly sig)","4.640e-05 (F=7.60)","2.771e-05 (F=22.89)","svyglm cubic + Wald F (df=15)"
+"2. Se/Zn T3 vs T1 OR for CAP≥275","1.22 (1.10-1.35), P=0.0025","0.95 (0.80-1.13), P=0.5706","1.08 (0.78-1.49), P=0.6758","svyglm quasibinomial (WTMEC2YR)"
+"3. HFS AUROC vs LSM≥8","0.731 (0.699-0.762)","0.642 (0.602-0.683)","0.656 (0.606-0.703)","WeightedROC + PSU-cluster bootstrap (B=500); P_ CI canonical from hfs_auroc_summary.csv"
+"4. ln(Se)→GGT_high OR","新分析 (v2 待 K 复制)","OR=1.07, P=0.8268","OR=1.09 (0.56-2.12), P=0.8180","svyglm quasibinomial (WTMEC2YR)"
+"5. Hg/Se molar median","0.001 (IQR 0.001-0.003)","0.001 (IQR 0.001-0.003)","0.001 (0.000-0.003)","svyquantile (WTMEC2YR)"

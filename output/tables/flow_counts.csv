@@ -1,0 +1,12 @@
+"step","n"
+"Raw merged table (J + P_)",24814
+"Pre-pandemic cohort only (J subset of P_, dedupe)",15560
+"Age >= 20",9232
+"+ not pregnant (excl RIDEXPRG==1 only)",9145
+"+ LUX valid (LUXSMED + LUXCAPM non-NA)",7922
+"+ LBXBSE (blood Se) + DR1TSELE (dietary Se)",6969
+"+ BIOPRO (AST/ALT/Alb) + CBC PLT",6747
+"Core covariate-complete (main analytic cohort; 862 excluded)",5885
+"HFS-eligible (fasting insulin+glucose, within 5,885)",2908
+"HFS AUROC analytic subset (HFS + FIB-4 + WTSAFPRP>0)",2810
+"HFS >= 0.47 high-risk cell (within AUROC subset)",5

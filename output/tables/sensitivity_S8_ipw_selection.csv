@@ -1,0 +1,2 @@
+"sensitivity","n_completer","n_pool","completion_rate","blood_se_OR","blood_se_p","diet_se_OR","diet_se_p","status","note"
+"IPW_selection (X3 / S8) — stabilised IPW alone",6077,7143,0.9485,1.15221982102743,2.72127481042307e-07,1.03788629057835,0.18027255549842,"ok","Stabilised IPW only; NHANES design weight not composed to avoid GLM overflow (Hernán-Robins 2020 §12.5)."

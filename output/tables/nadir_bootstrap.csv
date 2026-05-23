@@ -1,0 +1,3 @@
+"model","estimate","lower95","upper95","prob_in_130_170","B","N_valid","elapsed_sec"
+"Unadjusted ns(df=4) lm",140.0424,138.15304,155.709862104208,1,1000,1000,19.21
+"ALT-adjusted ns(df=4) lm",140.168,138.1936,158.228645771543,1,1000,1000,82.77

@@ -1,0 +1,4 @@
+"measure","estimate","ci_lo","ci_hi","interpretation","note"
+"RERI",0.197337146868374,-0.120687644412218,0.515361938148966,"Relative excess risk due to interaction; >0 = positive additive interaction","Hosmer-Lemeshow 1992 delta-method 95% CI"
+"AP",0.122646513913865,-0.0729037651991906,0.318196793026921,"Attributable proportion due to interaction; 0-1 = positive additive","Hosmer-Lemeshow 1992 delta-method 95% CI"
+"SI",1.47937631839094,0.683760177955782,3.20076301892718,"Synergy index; >1 = synergy, <1 = antagonism, =1 = additivity","Log-SI delta-method 95% CI, exponentiated"

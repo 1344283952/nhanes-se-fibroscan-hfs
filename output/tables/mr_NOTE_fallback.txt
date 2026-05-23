@@ -1,0 +1,6 @@
+MR refit attempted 2026-05-18; JWT auth OK but outcome GWAS lookup failed.
+Falling back to literature-cited Liu K et al 2024 Sci Rep 14:1105 numbers:
+  IVW OR 1.11 (95% CI 1.03-1.20), P=0.005, FDR-q=0.028
+  Weighted Median OR 1.12 (95% CI 1.03-1.21), P=0.007
+  MR-Egger OR 0.81 (95% CI 0.52-1.25), Q=4.21, intercept P=0.42
+Manuscript §2.7 + §3.7 + §4.6 cite Liu K 2024 directly.
